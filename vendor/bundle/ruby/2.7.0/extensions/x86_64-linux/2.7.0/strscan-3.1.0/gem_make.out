@@ -1,0 +1,17 @@
+current directory: /home/jan/RUBY ON RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+/home/jan/.rvm/rubies/ruby-2.7.8/bin/ruby -I /home/jan/.rvm/rubies/ruby-2.7.8/lib/ruby/site_ruby/2.7.0 extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /home/jan/RUBY ON RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240626-31154-1tb23k3 sitelibdir\=./.gem.20240626-31154-1tb23k3 clean
+
+current directory: /home/jan/RUBY ON RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240626-31154-1tb23k3 sitelibdir\=./.gem.20240626-31154-1tb23k3
+compiling strscan.c
+linking shared-object strscan.so
+
+current directory: /home/jan/RUBY ON RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240626-31154-1tb23k3 sitelibdir\=./.gem.20240626-31154-1tb23k3 install
+/usr/bin/install -c -m 0755 strscan.so ./.gem.20240626-31154-1tb23k3

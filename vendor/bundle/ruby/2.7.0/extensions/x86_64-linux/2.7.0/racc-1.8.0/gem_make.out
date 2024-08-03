@@ -1,0 +1,15 @@
+current directory: /home/jan/RUBY ON RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/racc-1.8.0/ext/racc/cparse
+/home/jan/.rvm/rubies/ruby-2.7.8/bin/ruby -I /home/jan/.rvm/rubies/ruby-2.7.8/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/jan/RUBY ON RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240626-31154-1sx5ty8 sitelibdir\=./.gem.20240626-31154-1sx5ty8 clean
+
+current directory: /home/jan/RUBY ON RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240626-31154-1sx5ty8 sitelibdir\=./.gem.20240626-31154-1sx5ty8
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/jan/RUBY ON RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240626-31154-1sx5ty8 sitelibdir\=./.gem.20240626-31154-1sx5ty8 install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240626-31154-1sx5ty8/racc

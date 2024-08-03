@@ -1,0 +1,26 @@
+pt-BR:
+  current_locale: "Português (Brasil)"
+  welcome: "Bem-vindo!"
+  messages: 
+    welcome: "Este é o Crypto Wallet, um aplicativo onde você pode registrar e acompanhar suas criptomoedas."
+    menu: "Para começar, escolha uma opção abaixo:"
+  hello: "Olá, mundo"
+  links:
+    edit: "Editar"
+    show: "Mostrar"
+    delete: "Apagar"
+    new: "Novo"
+    back: "Voltar"
+  new:
+    coin: "Nova Moeda"
+    mining_type: "Novo Tipo de Mineração"
+  editing:
+    coin: "Editando Moeda"
+    mining_type: "Editando Tipo de Mineração"
+  showing:
+    coin: "Mostrando Moeda"
+    mining_type: "Mostrando Tipo de Mineração"
+  activerecord:
+    models:
+      coin: "Moeda"
+      mining_type: "Tipo de Mineração"

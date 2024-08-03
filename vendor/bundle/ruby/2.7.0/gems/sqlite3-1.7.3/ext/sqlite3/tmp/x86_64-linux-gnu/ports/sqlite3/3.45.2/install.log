@@ -1,0 +1,8 @@
+make[1]: Entering directory '/home/jan/RUBY ON RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/sqlite3-1.7.3/ext/sqlite3/tmp/x86_64-linux-gnu/ports/sqlite3/3.45.2/sqlite-autoconf-3450200'
+ /usr/bin/mkdir -p '/home/jan/RUBY ON RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/sqlite3-1.7.3/ports/x86_64-linux-gnu/sqlite3/3.45.2/lib'
+ /bin/bash ./libtool   --mode=install /usr/bin/install -c   libsqlite3.la '/home/jan/RUBY ON RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/sqlite3-1.7.3/ports/x86_64-linux-gnu/sqlite3/3.45.2/lib'
+libtool: install: /usr/bin/install -c .libs/libsqlite3.lai /home/jan/RUBY ON RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/sqlite3-1.7.3/ports/x86_64-linux-gnu/sqlite3/3.45.2/lib/libsqlite3.la
+/usr/bin/install: target 'RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/sqlite3-1.7.3/ports/x86_64-linux-gnu/sqlite3/3.45.2/lib/libsqlite3.la' is not a directory
+make[1]: *** [Makefile:471: install-libLTLIBRARIES] Error 1
+make[1]: Leaving directory '/home/jan/RUBY ON RAILS/workspace/module_3/crypo_wallet/vendor/bundle/ruby/2.7.0/gems/sqlite3-1.7.3/ext/sqlite3/tmp/x86_64-linux-gnu/ports/sqlite3/3.45.2/sqlite-autoconf-3450200'
+make: *** [Makefile:915: install-am] Error 2

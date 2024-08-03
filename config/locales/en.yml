@@ -1,0 +1,15 @@
+en:
+  current_locale: "English (international)"
+  welcome: "Welcome!"
+  messages: 
+    welcome: "This is the Crypto Wallet, an app where you can register and keep track of your cryptocurrencies"
+    menu: "To start, choose an option below:"
+  hello: "Hello world"
+  links:
+    edit: "Edit"
+    show: "Show"
+    delete: "Delete"
+  activerecord:
+    models:
+      coin: "Coin"
+      mining_type: "Mining Type"
